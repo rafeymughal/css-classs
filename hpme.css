@@ -1,0 +1,96 @@
+body{
+background-image: url(bg1.webp);
+background-size: cover;
+margin: 0%;
+}
+
+.container{
+
+background-color: rgba(28, 6, 110, 0.4);
+margin: 20px;
+border-radius: 30px;
+padding: 1px;
+}
+
+.heading{
+background-color: rgba(22, 10, 136,0.8);
+color: white;
+padding: 3px;
+border-radius: 10px ;
+margin-left: 10px;
+margin-right: 10px;
+
+}
+.logo-img{
+width: 200px;
+height:200px;
+border-radius: 100px;
+
+
+
+}
+.logo-img-c{
+    text-align: center;
+}
+.link{
+
+background-color: rgb(2, 61, 91);
+color: white;
+border-radius: 100px;
+margin: left 10px;
+margin-right: 10px;
+padding: 10px ;
+}
+.linka{
+    text-align: center;
+}
+.headings{background-color: rgba(22, 10, 136,0.8);
+color: white;
+padding: 2px;
+border-radius: 10px ;
+margin-bottom: 0%;
+margin-left: 10px;
+margin-right: 10px;
+}
+.containerp{
+    background-color: rgba(2, 2, 58, 0.618);
+    border-radius: 10px;
+padding-bottom: 5px;
+margin-left: 10px;
+margin-right: 10px;
+}
+.para{
+ background-color:rgba(6, 1, 33, 0.725)  ;
+border-radius: 10px;
+color: white;
+padding-top: 6px;
+padding-bottom: 8px;
+margin-left: 10px;
+margin-right: 10px;
+}
+.imgsecond{
+border-radius: 7px;
+height: 440px; 
+width:650px; 
+
+}
+.br{
+    border-radius: 10px;
+    margin-left: 10px;
+margin-right: 10px;
+}
+.paras{
+ background-color:rgba(6, 1, 33, 0.725)  ;
+border-radius: 8px;
+height: 30px;
+margin-left: 10px;
+margin-right: 10px;}
+
+.parat{background-color:rgba(124, 174, 43, 0.725)  ;
+border-radius: 7px;
+margin-left: 100px;
+margin-right: 100px;
+width:cover ;
+height: 50px;
+
+}
