@@ -1,0 +1,37 @@
+body{
+background-image: url(bg1.webp);
+background-size: cover;
+margin: 0%;
+}
+
+.container{
+
+background-color: rgba(28, 6, 110, 0.4);
+margin: 20px;
+border-radius: 30px;
+padding: 1px;
+}
+
+.heading{
+background-color: rgba(0, 128, 49,0.9);
+color: white;
+padding: 3px;
+border-radius: 10px ;
+margin-left: 10px;
+margin-right: 10px;
+
+}
+.logo-img{
+width: 200px;
+height:200px;
+border-radius: 100px;}
+.logo-img-c{
+    text-align: center;
+}
+.link{
+margin-left: 50px;
+margin-right: 50px;
+padding-left: 20px;
+padding-right: 20px;
+color: white;
+}
