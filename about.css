@@ -28,10 +28,45 @@ border-radius: 100px;}
 .logo-img-c{
     text-align: center;
 }
+
+
 .link{
-margin-left: 50px;
-margin-right: 50px;
-padding-left: 20px;
-padding-right: 20px;
+
+background-color: rgb(2, 80, 43);
 color: white;
+border-radius: 100px;
+margin: left 10px;
+margin-right: 10px;
+padding: 10px ;
+}
+.linka{
+    text-align: center;
+}
+.bc{
+    background-color:rgba(10, 25, 38,0.7) ;
+    color: aquamarine;
+    margin: 15px;
+    border-radius: 8px;
+}
+.containerp{
+background-color: rgba(5, 94, 9, 0.3);
+border-radius: 6px;
+margin: 10px;
+padding:15px ;
+
+}
+.bcp{
+    background-color:rgba(10, 25, 38,0.7) ;
+    color: aquamarine;
+    border-radius: 5px;
+}
+.con{
+
+background-color: rgba(21, 60, 4, 0.583);
+border-radius: 6px;
+margin: 18px;
+padding:15px ;
+
+
+
 }
