@@ -1,0 +1,40 @@
+.input1 {
+background-color: rgb(163, 217, 190);
+width: 180px;
+color: rgb(63, 109, 226);
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+border: 2px solid white;
+
+}
+
+
+.input1:focus{
+    padding: 15px;
+}
+.input1:hover{
+    background-color: rgb(77, 101, 104);
+    border: 2px solid rgb(171, 228, 109);
+    cursor: cell;
+}
+.input2 {
+background-color: rgb(163, 217, 190);
+width: 399px;
+color: rgb(63, 109, 226);
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+border: 2px solid white;
+
+}
+
+
+.input2:focus{
+    padding: 15px;
+}
+.input2:hover{
+    background-color: rgb(77, 101, 104);
+    border: 2px solid rgb(171, 228, 109);
+    cursor: cell;
+}
